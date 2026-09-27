@@ -1,4 +1,4 @@
-# Northstar / Naeem Links International Website
+# Naeem Links International Website
 
 A modern business website built with React, Vite, Tailwind CSS, and an Express contact API. The project includes a marketing homepage, service sections, testimonials, contact form, and a reusable content/data structure for easy updates.
 
